@@ -1,0 +1,9 @@
+venv/
+allure-results/
+reports/
+.pytest_cache/
+.idea/
+__pycache__/
+*.pyc
+logs/
+.starFactory/

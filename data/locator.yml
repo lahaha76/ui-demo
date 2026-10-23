@@ -1,0 +1,5 @@
+login_page:
+  username: '[data-test="username"]'
+  password: '[data-test="password"]'
+  submit: '[data-test="login-button"]'
+  message: '[data-test="error"]'
